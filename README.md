@@ -1,4 +1,4 @@
-# Heart Rate Forecasting Project Documentation
+# Heart Rate Forecasting Project
 Introduction
 This project aims to predict heart rates for the next two weeks using four different forecasting models: Facebook Prophet, ARIMA, Linear Regression, and Random Forest. The prediction models take into account parameters such as time of measurement, age, and activity/resting state. The project also includes a clear backtest based on each of the forecasts and implements an alert system to notify of values outside predefined thresholds.
 
